@@ -4,6 +4,7 @@ defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
+
 params:
   subtitle: Making art deeply material in the digial era # todo: change default subtitle for your website.
   copyright: Mathieu Prost, all rights reserved # todo: set your copyright type.
