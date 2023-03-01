@@ -1,4 +1,4 @@
-baseURL: https://MathThePrinter.github.io # todo: change site url.
+baseURL: https://maththeprinter.github.io # todo: change site url.
 title: Math the Printer # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
