@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on Math the Printer</title>
+    <link>https://mathieuprost.fr/tags/</link>
+    <description>Recent content in tags on Math the Printer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mathieuprost.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archive</title>
+      <link>https://mathieuprost.fr/tags/archive/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/tags/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digital_art</title>
+      <link>https://mathieuprost.fr/tags/digital_art/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/tags/digital_art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>commissions</title>
+      <link>https://mathieuprost.fr/tags/commissions/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/tags/commissions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linocut</title>
+      <link>https://mathieuprost.fr/tags/linocut/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/tags/linocut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://mathieuprost.fr/tags/work/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>https://mathieuprost.fr/tags/home/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mathieuprost.fr/tags/home/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
