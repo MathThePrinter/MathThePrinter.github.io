@@ -203,32 +203,22 @@ This was one of my earliest projects, one of my biggest occasions to learn and d
     
     <item>
       <title>Ma démarche artistique (in 🇫🇷)</title>
-      <link>https://maththeprinter.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maththeprinter.github.io/about/</guid>
-      <description>Personal Art Manifesto From my perspective, I see woodcut taking its roots in two artistic movements: the first being international gothic art, and the second renaissance art, which intrinsincly conveys the humanistic values of that period of time.
-It&amp;rsquo;s more than interesting to notice that graphic conventions were directly dictated by the medium employed (wood for the blocks) as other were dictated by graphic and societal conventions. As of today, the technical means that i dispose of allow me to pass through all of it and overcome both cultural and technical obstacles.</description>
-    </item>
-    
-    <item>
-      <title>Ma démarche artistique (in 🇫🇷)</title>
-      <link>https://maththeprinter.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maththeprinter.github.io/about/</guid>
-      <description>Ma démarche artistique La gravure s’inscrit la croisée entre le courant médiéval du gothique international, et l’art de la renaissance, qui participe de l’entreprise humaniste au sens philosophique.
-Il est intéressant de noter que certains codes étaient respectés du fait de la contrainte du medium (le bois) et d’autres, par convention culturelle. Aujourd’hui, les moyens techniques mis en place me permettent de surmonter ces contraintes aussi bien culturelles, que techniques.</description>
-    </item>
-    
-    <item>
-      <title>Ma démarche artistique (in 🇫🇷)</title>
       <link>https://maththeprinter.github.io/aboutFR/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://maththeprinter.github.io/aboutFR/</guid>
       <description>Ma démarche artistique La gravure s’inscrit la croisée entre le courant médiéval du gothique international, et l’art de la renaissance, qui participe de l’entreprise humaniste au sens philosophique.
 Il est intéressant de noter que certains codes étaient respectés du fait de la contrainte du medium (le bois) et d’autres, par convention culturelle. Aujourd’hui, les moyens techniques mis en place me permettent de surmonter ces contraintes aussi bien culturelles, que techniques.</description>
+    </item>
+    
+    <item>
+      <title>Personal Art Manifesto</title>
+      <link>https://maththeprinter.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maththeprinter.github.io/about/</guid>
+      <description>Personal Art Manifesto From my perspective, I see woodcut taking its roots in two artistic movements: the first being international gothic art, and the second renaissance art, which intrinsincly conveys the humanistic values of that period of time.
+It&amp;rsquo;s more than interesting to notice that graphic conventions were directly dictated by the medium employed (wood for the blocks) as other were dictated by graphic and societal conventions. As of today, the technical means that i dispose of allow me to pass through all of it and overcome both cultural and technical obstacles.</description>
     </item>
     
   </channel>

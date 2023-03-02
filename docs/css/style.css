@@ -110,6 +110,7 @@ nav.navbar {
 .menu {
     max-width: 600px;
     padding: 0 1.45rem 0 1.45rem;
+    text-align: center;
 }
 
 .margin-bottom-50 {

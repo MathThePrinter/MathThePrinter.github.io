@@ -1,5 +1,5 @@
 ---
-title: Ma démarche artistique (in 🇫🇷)
+title: Personal Art Manifesto
 url: /about/
 hidetitle: true
 #images:

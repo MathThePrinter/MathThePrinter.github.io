@@ -4,7 +4,6 @@ defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
-
 params:
   subtitle: Making art deeply material in the digial era # todo: change default subtitle for your website.
   copyright: Mathieu Prost, all rights reserved # todo: set your copyright type.
@@ -18,18 +17,18 @@ params:
         commissions: 3
         default: 3
       mobile:
-        default: 2
-        archive: 2
-        linocut: 2
-        digital_art: 2
-        commissions: 2
+        default: 1
+        archive: 1
+        linocut: 1
+        digital_art: 1
+        commissions: 1
   socials:
     # todo: change these links.
     - icon: 'fab fa-facebook fa-lg'
       url: 'https://facebook.com/maththeprinter'
       landing: true
     - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.com/Maththeprinter'
+      url: 'https://instagram.com/Math_the_printer'
     - icon: 'fab fa-etsy fa-lg'
       url: 'http://maththeprinter.etsy.com'
     - icon: 'far fa-envelope fa-lg'
@@ -40,6 +39,7 @@ params:
     - digital_art 
     - work
     - all
+    - about
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   plausible: '' # todo: set your plausible id.
   disableRadius: true

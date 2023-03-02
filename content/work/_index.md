@@ -3,7 +3,6 @@ title: work #Permet d'appeler le hashtag relié au portfolio d'images. Si on met
 url: work
 
 hidetitle: true
-hidetag: true
 hideExif: true
 hideDate: true
 
