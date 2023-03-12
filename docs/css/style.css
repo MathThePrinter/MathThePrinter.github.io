@@ -325,12 +325,15 @@ section .column img {
 }
 
 .center {
-    display: flex;
+/*    display: flex; Si enlevé, fait en sorte de n'afficher qu'une image à la fois sur smartphone*/ 
     justify-content: center;
     align-items: center;
+
+
 }
 
 .exif {
+    display: none;
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: small;
