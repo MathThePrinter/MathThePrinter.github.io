@@ -22,6 +22,7 @@ params:
         linocut: 1
         digital_art: 1
         commissions: 1
+        default : 1
   socials:
     # todo: change these links.
     - icon: 'fab fa-facebook fa-lg'
