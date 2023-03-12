@@ -325,7 +325,7 @@ section .column img {
 }
 
 .center {
-/*    display: flex; Si enlevé, fait en sorte de n'afficher qu'une image à la fois sur smartphone*/ 
+    display: flex; /*Si enlevé, fait en sorte de n'afficher qu'une image à la fois sur smartphone*/ 
     justify-content: center;
     align-items: center;
 
@@ -423,3 +423,5 @@ section .column img {
         margin-top: 0;
     }
 }
+
+
