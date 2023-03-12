@@ -66,5 +66,6 @@
 
     .slide-imgs {
         padding-bottom: 20px;
+        display : grid; /* Allows the display of the images according to the screen width : 1 for mobiles, 3 for desktop for instance*/
     }
 }
