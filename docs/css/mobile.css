@@ -8,12 +8,6 @@
         margin-top: 10px;
     }
 
-    .slide-imgs .columns {
-            display: block; /*Permet de n'afficher qu'une seule image sur les smartphones*/
-
-    }
-
-
     #desktop {
         display: none;
     }

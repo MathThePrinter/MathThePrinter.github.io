@@ -10,7 +10,6 @@ tags:
 
 - archive # all posts
 - digital_art
-- commissions
 ---
 
 ## The Faun (🇫🇷 Le Faune)
